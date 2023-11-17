@@ -1,0 +1,27 @@
+* {
+    color:black;
+}
+
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.even {
+    background-color: white;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
